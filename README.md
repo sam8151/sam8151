@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sam! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure/Cloud Cybersecurity Projects>
   - [Creating a live SOC/HoneyNet in Azure](https://github.com/sam8151/cloud-soc)
