@@ -10,6 +10,6 @@
 
 
 
-[[linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/sam-mohamed-55ab60216/)
+[[linkedin]: https://linkedin.com/in/](https://www.linkedin.com/in/sam-mohamed-55ab60216/)
 
 
